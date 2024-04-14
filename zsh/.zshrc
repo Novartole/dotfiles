@@ -121,7 +121,7 @@ source $ZSH/oh-my-zsh.sh
 alias ls="eza"
 alias lsa="eza -a"
 alias ll="eza -ahl"
-alias tree="eza --tree"
+alias tree="eza --tree --level"
 
 alias zz="z -"
 
