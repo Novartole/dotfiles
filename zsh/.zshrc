@@ -124,6 +124,12 @@ alias lst="eza --icons --tree --level"
 
 alias zz="z -"
 
+alias gia="git add"
+alias gic="git commit"
+alias gid="git diff"
+alias gil="git log"
+alias gis="git status"
+
 # customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
